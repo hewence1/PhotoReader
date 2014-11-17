@@ -23,7 +23,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 public class MyAllPhotoAdapter extends BaseAdapter {
-    protected static final String TAG = "MyAllPhoteAdapter";
+    protected static final String TAG = "MyAllPhoteAdapter";  // 
 
     Context mContext = null;
 
